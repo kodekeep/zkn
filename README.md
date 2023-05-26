@@ -1,2 +1,2 @@
 # zkn
-Zettelkasten setup
+ my Zettelkasten setup
