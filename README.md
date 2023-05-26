@@ -1,0 +1,2 @@
+# zkn
+Zettelkasten setup
