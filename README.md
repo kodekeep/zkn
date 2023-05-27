@@ -2,6 +2,12 @@
 
 Description of the Zettelkasten Setup
 
+Zweck des Zettelkastensetup:
+
+- lernen für die Prüfung
+- Lernstoff wiederholen und sich mit dem Stoff auseinandersetzen
+- Zettelkasten aufbauen
+
 ## Files & Folders
 
 ```
@@ -12,12 +18,11 @@ Description of the Zettelkasten Setup
         +-- ARCHIVE
         +-- EAT
         +-- doc
-            +-- tools.md
-            +-- software.md
-            +-- setup.md
-            +-- tasks.md
-            +-- zettelkasten.md
+            +-- tools.md [[doc/tools.md]]
+            +-- software.md [[doc/software.md]]
+            +-- setup.md [[doc/setup.md]]
+            +-- tasks.md [[doc/tasks.md]]
+            +-- zettelkasten.md [[doc/zettelkasten.md]]
         +-- README.md
 ```
 
-lorem ipsum
