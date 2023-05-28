@@ -1,28 +1,23 @@
-# Zettelkasten
+# zkn
 
-Description of the Zettelkasten Setup
+This setup is about note taking, learning and plaintext productivity.
 
-Zweck des Zettelkastensetup:
+It is highly inspired by [Zettelkasten](https://niklas-luhmann-archiv.de/nachlass/zettelkasten), [Plaintext productivity](https://plaintext-productivity.net/), [nvalt](https://github.com/ttscoff/nv)
 
-- lernen für die Prüfung
-- Lernstoff wiederholen und sich mit dem Stoff auseinandersetzen
-- Zettelkasten aufbauen
+## Tools
+[neovim](https://github.com/neovim/neovim) and some plugins
+a set of scripts
+[archlinux](https://github.com/archlinux)
 
 ## Files & Folders
 
 ```
 ~
-+-- WORK
-    +-- ZKN
-        +-- INBOX
-        +-- ARCHIVE
-        +-- EAT
-        +-- doc
-            +-- tools.md [[doc/tools.md]]
-            +-- software.md [[doc/software.md]]
-            +-- setup.md [[doc/setup.md]]
-            +-- tasks.md [[doc/tasks.md]]
-            +-- zettelkasten.md [[doc/zettelkasten.md]]
-        +-- README.md
++-- WORK                root folder
+    +-- ZKN             zettelkasten root folder
+        +-- INBOX       storage for fleeting notes
+        +-- ARCHIVE     General File store
+        +-- EAT         Electronics
+        +-- doc         Documentation
 ```
 
