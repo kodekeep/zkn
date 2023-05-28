@@ -6,7 +6,9 @@ It is highly inspired by [Zettelkasten](https://niklas-luhmann-archiv.de/nachlas
 
 ## Tools
 [neovim](https://github.com/neovim/neovim) and some plugins
+
 a set of scripts
+
 [archlinux](https://github.com/archlinux)
 
 ## Files & Folders
