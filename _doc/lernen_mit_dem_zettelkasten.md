@@ -1,6 +1,6 @@
 # Lernen mit dem Zettelkasten
 
-Lernen funktioniert durch bilden von Verknüpfungen.
+Lernen funktioniert durch Bilden von Verknüpfungen.
 Diese Verknüpfungen entstehen im Gehirn durch Aufschreiben und Wiederholungen.
 
 Aufschreiben auf dem reMArkable 2 -> Umwandeln in text -> Inbox ( fleeting note) -> verabeiten der fleeting note
