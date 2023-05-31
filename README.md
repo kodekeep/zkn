@@ -20,7 +20,7 @@ a set of scripts
         +-- INBOX       storage for fleeting notes
         +-- ARCHIVE     General File store
         +-- EAT         Electronics
-        +-- _doc         Documentation
+        +-- _doc        Documentation
         +-- _tools      Scripts, Tools
 ```
 
